@@ -22,9 +22,9 @@ export default function Info() {
         <a
           target="_blank"
           rel="noopener noreferrer"
-          href="https://github.com/dbaramo"
+          href="https://github.com/dbaramo/3D-TV"
         >
-        https://github.com/dbaramo
+        https://github.com/dbaramo/3D-TV
         </a>
         <br />
         <br />
